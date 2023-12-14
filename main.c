@@ -5,7 +5,6 @@
  *is_valid_integer - Validates whether a string is a valid integer.
  *@str: The string to be validated.
  *@line_number: Line number for error reporting.
- *
  *Return:
  *  - Returns 1 if the string is a valid integer.
  *  - Returns 0 otherwise.
